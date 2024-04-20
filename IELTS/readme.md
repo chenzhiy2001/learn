@@ -1,6 +1,10 @@
-@HW WSL,practice(Yemen)
+@HW WSL,Wiring practice(Yemen),寄送车票,10-1-3,10-4-2
+
 @HW
 背阅读的真词汇
+
+- apps: 鲸小爱，雅思哥，小站雅思
+
 
 @HW
 ## practice
